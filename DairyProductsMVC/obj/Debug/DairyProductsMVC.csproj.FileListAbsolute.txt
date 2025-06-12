@@ -1,0 +1,7 @@
+E:\HarvestMarketMVC\DairyProductsMVC\bin\Debug\DairyProductsMVC.exe.config
+E:\HarvestMarketMVC\DairyProductsMVC\bin\Debug\DairyProductsMVC.exe
+E:\HarvestMarketMVC\DairyProductsMVC\bin\Debug\DairyProductsMVC.pdb
+E:\HarvestMarketMVC\DairyProductsMVC\obj\Debug\DairyProductsMVC.csproj.AssemblyReference.cache
+E:\HarvestMarketMVC\DairyProductsMVC\obj\Debug\DairyProductsMVC.csproj.CoreCompileInputs.cache
+E:\HarvestMarketMVC\DairyProductsMVC\obj\Debug\DairyProductsMVC.exe
+E:\HarvestMarketMVC\DairyProductsMVC\obj\Debug\DairyProductsMVC.pdb
